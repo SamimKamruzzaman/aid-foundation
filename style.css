@@ -39,7 +39,7 @@ body{
     padding-right: 300px;
 }
 .donate-today{
-    font-size: 45px;
+    font-size: 40px;
 }
 .para{
     font-weight: 600;
@@ -111,4 +111,67 @@ input{
     color: white;
     border-radius: 5px;
     font-weight: 700;
+}
+.donate-plan-section{
+    margin-top: 70px;
+}
+.donate-plan{
+    font-size: 40px;
+    text-align: center;
+}
+.para2{
+    font-weight: 600;
+    color: rgb(182, 200, 218);
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: 30px;
+}
+.food-shelter-education{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.food{
+    background-color: rgb(176, 234, 234);
+    margin-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.shelter{
+    background-color: rgb(247, 206, 191);
+    margin-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.education{
+    background-color: rgb(248, 224, 193);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.my-upates-section{
+    margin-top: 70px;
+}
+.my-updates{
+    font-size: 40px;
+    text-align: center;
+}
+.para3{
+    font-weight: 600;
+    color: rgb(182, 200, 218);
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: 30px;
+}
+.email-subscribe{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 50px;
 }
