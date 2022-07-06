@@ -1,0 +1,81 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+}
+.top-banner{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    color: white;
+    background-size: 100% auto;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+}
+.let-help{
+    font-size: 50px;
+}
+#proudly{
+    
+}
+.donateNow-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.donate-today-section{
+    text-align: center;
+}
+.donate-today{
+    font-size: 35px;
+}
+.taka{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+#t100{
+    padding: 40px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+#t200{
+    padding: 40px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#t500{
+    padding: 40px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#t1k{
+    padding: 40px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#t5k{
+    padding: 40px;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.other-amount{
+    margin-top: 40px;
+}
+.donate-now2{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
