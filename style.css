@@ -1,6 +1,7 @@
 body{
     font-family: 'Heebo', sans-serif;
     margin: 0;
+    padding: 0;
 }
 .top-banner{
     text-align: center;
@@ -104,7 +105,7 @@ input{
     border-bottom-style:groove;
     font-size: 17px;
 }
-.donate-now2{
+.donate-now2-button{
     text-decoration: none;
     background-color: rgb(247, 86, 58);
     padding: 10px 30px;
@@ -182,4 +183,24 @@ input{
 .email-subscribe{
     display: flex;
 
+    justify-content: center;
+    align-items: center;
+
+}
+.email{
+    background-color: rgb(218, 213, 213);
+    height: 40px;
+    width: 400px;
+    border: none;
+    padding: 0 15px;
+    font-size: 15px;
+}
+.subscribe-button{
+    text-decoration: none;
+    background: rgb(247, 86, 58);
+    position: absolute;
+    height: 40px;
+    padding: 0px 15px;
+    color: white;
+    
 }
