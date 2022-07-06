@@ -172,35 +172,28 @@ input{
     margin-bottom: 30px;
 }
 .email-sub-pad{
-    background-color: bisque;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    margin-left: 250px;
-    margin-right: 250px;
+
 }
-.email-subscribe{
+.form{
     display: flex;
-
-    justify-content: center;
-    align-items: center;
-
+    background-color: rgb(255, 230, 198);
+    padding: 50px 130px;
+    margin: 0px 250px 0px 250px;
 }
 .email{
-    background-color: rgb(218, 213, 213);
-    height: 40px;
-    width: 400px;
+    background-color: rgb(221, 216, 209);
     border: none;
-    padding: 0 15px;
-    font-size: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: left;
+    padding: 10px 40px; 
+    line-height: 10px;
 }
-.subscribe-button{
-    text-decoration: none;
-    background: rgb(247, 86, 58);
-    position: absolute;
-    height: 40px;
-    padding: 0px 15px;
+.submit{
+    background-color: tomato;
     color: white;
-    
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
 }
