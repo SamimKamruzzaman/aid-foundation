@@ -35,47 +35,74 @@ body{
 .donate-today-section{
     text-align: center;
     margin-top: 70px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 .donate-today{
     font-size: 45px;
+}
+.para{
+    font-weight: 600;
+    color: rgb(170, 171, 172);
 }
 .taka{
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    font-weight: 800;
+    margin-left: 150px;
+    margin-right: 150px;
     
 }
 #t100{
     padding: 40px;
-    background-color: antiquewhite;
+    background-color: rgb(245, 242, 238);
     border-radius: 5px;
+    font-size: 30px;
+    color: rgb(117, 118, 119);
 }
 #t200{
     padding: 40px;
-    background-color: antiquewhite;
-    margin-left: 10px;
+    background-color: rgb(255, 233, 229);
+    margin-left: 15px;
+    font-size: 30px;
+    color: tomato;
+    border: 3px solid tomato;
     border-radius: 5px;
 }
 #t500{
     padding: 40px;
-    background-color: antiquewhite;
-    margin-left: 10px;
+    background-color: rgb(245, 242, 238);
+    margin-left: 15px;
     border-radius: 5px;
+    font-size: 30px;
+    color: rgb(117, 118, 119);
 }
 #t1k{
     padding: 40px;
-    background-color: antiquewhite;
-    margin-left: 10px;
+    background-color: rgb(245, 242, 238);
+    margin-left: 15px;
     border-radius: 5px;
+    font-size: 30px;
+    color: rgb(117, 118, 119);
 }
 #t5k{
     padding: 40px;
-    background-color: antiquewhite;
-    margin-left: 10px;
+    background-color: rgb(245, 242, 238);
+    margin-left: 15px;
     border-radius: 5px;
+    font-size: 30px;
+    color: rgb(117, 118, 119);
 }
-.other-amount{
+input{
     margin-top: 40px;
+    width: 100%;
+    text-align: center;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style:groove;
+    font-size: 17px;
 }
 .donate-now2{
     text-decoration: none;
