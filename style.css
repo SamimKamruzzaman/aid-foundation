@@ -44,7 +44,7 @@ body{
 }
 .para{
     font-weight: 600;
-    color: rgb(170, 171, 172);
+    color: rgb(139, 146, 154);
 }
 .taka{
     display: flex;
@@ -122,7 +122,7 @@ input{
 }
 .para2{
     font-weight: 600;
-    color: rgb(182, 200, 218);
+    color: rgb(139, 146, 154);
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
@@ -156,8 +156,60 @@ input{
     padding-top: 40px;
     padding-bottom: 30px;
 }
+.our-work-section{
+    text-align: center;
+}
+.our-work{
+    font-size: 40px;
+    text-align: center;
+}
+.our-work-para{
+    font-weight: 600;
+    color: rgb(139, 146, 154);
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-bottom: 30px;
+}
+.water-world{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-weight: 800;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.dollar{
+    margin-right: 20px;
+    font-size: 20px;
+    color: rgb(234, 11, 11);
+}
+.project{
+    margin-right: 20px;
+    font-size: 20px;
+    color: rgb(59, 11, 234);
+}
+.world{
+    font-size: 20px;
+    color:black
+}
+.learn-more-button{
+    text-decoration: none;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: 400;
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    color: tomato;
+    border: 3px solid tomato;
+    border-radius: 5px;
+}
 .my-upates-section{
-    margin-top: 70px;
+    margin-top: 100px;
 }
 .my-updates{
     font-size: 40px;
@@ -165,19 +217,16 @@ input{
 }
 .para3{
     font-weight: 600;
-    color: rgb(182, 200, 218);
+    color: rgb(139, 146, 154);
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
     margin-bottom: 30px;
 }
-.email-sub-pad{
-
-}
 .form{
     display: flex;
     background-color: rgb(255, 230, 198);
-    padding: 50px 130px;
+    padding: 50px 130px 80px;
     margin: 0px 250px 0px 250px;
 }
 .email{
@@ -198,17 +247,18 @@ input{
 
 }
 footer{
+    font-family: 'Lobster', cursive;
     background-color: black;
     margin-top: 70px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
     padding-top: 25px;
     font-size: 30px;
-    color: white;
+    color: tomato;
     text-align: center;
     height: 130px;
 
 }
 small{
     font-size: 13px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
